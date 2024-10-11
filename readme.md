@@ -1,7 +1,6 @@
-## Heyooo everyone, welcome my Git
-
-guide!
+## Welcome to Git!
 
 Yo Jonny here!
 
-\_ I'm adding this from 'feature-banch'
+- This is coming from 'dev-adrian'
+  \_ I'm adding this from 'feature-banch'
